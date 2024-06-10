@@ -2,9 +2,9 @@
 ## Estructura del Repositorio 
 Ejercicios elababorados 
 1. **Suma de los digitos de un número**
-   - 
+   - https://github.com/Sebaslsst/Taller-.c/blob/main/Suma_digitos.c
 2. **Inverso de un número**
-   - 
+   - https://github.com/Sebaslsst/Taller-.c/blob/main/Inverso.c
 3. **Potencia mediante sumas sucesivas**
    - 
 4. **Radicación mediante restas sucesivas**
