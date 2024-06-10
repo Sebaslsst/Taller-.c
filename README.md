@@ -1,7 +1,7 @@
 # Taller
 ## Estructura del Repositorio 
 Ejercicios elababorados 
-1. *Suma de los digitos de un número*
+1. **Suma de los digitos de un número**
    - 
 2. **Inverso de un número**
    - 
